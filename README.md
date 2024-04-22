@@ -1,2 +1,2 @@
 # tyneandwear
-Analysing the flow and crash rate of region Tyne and Wear.
+Analysing the flow and crash rate of county: Tyne and Wear.
